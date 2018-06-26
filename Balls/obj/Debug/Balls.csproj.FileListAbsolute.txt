@@ -1,0 +1,12 @@
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\bin\Debug\Balls.exe.config
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\bin\Debug\Balls.exe
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\bin\Debug\Balls.pdb
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.csprojAssemblyReference.cache
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.frmStart.resources
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.Properties.Resources.resources
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.csproj.GenerateResource.cache
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.exe
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.pdb
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\bin\Debug\Towa.dll
+C:\Liliana.Gutierrez\OOTechIntroEWT\cs\RecreationalStuff\Balls\obj\Debug\Balls.csproj.CopyComplete
